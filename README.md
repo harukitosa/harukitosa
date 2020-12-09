@@ -1,6 +1,6 @@
 # harukitosa
 
-web devloper
+web dev
 
 # links
 
