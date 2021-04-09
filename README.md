@@ -6,7 +6,7 @@ web dev
 
 - blog https://harukitosa.com/
 - zenn https://zenn.dev/tosa
-
+- twitter https://twitter.com/tosa_now
 
 # development
 
